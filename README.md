@@ -21,5 +21,6 @@ This exercise was made for testing ng-content. As you can see, ng-content helps 
 Helpful resource:
 
 [scotch](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content)
+
 [Eudes Petonnet's post Medium](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 
